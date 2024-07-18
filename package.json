@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "node index.js",
-    "build": "npm i"
+    "build": "npm i && mkdir -p public"
   },  
   "dependencies": {
     "cors": "^2.8.5",
